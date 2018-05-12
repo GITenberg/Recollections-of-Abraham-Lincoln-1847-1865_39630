@@ -1,0 +1,33 @@
+_repo: Recollections-of-Abraham-Lincoln-1847-1865_39630
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39630-h/images/frontcover.jpg
+creator:
+  author:
+    agent_name: Lamon, Ward Hill
+    alias: Lamon, Ward H.
+    birthdate: 1828
+    deathdate: 1893
+    gutenberg_agent_id: '40124'
+    url: http://www.gutenberg.org/2009/agents/40124
+  editor:
+    agent_name: Teillard, Dorothy Lamon
+    alias: Lamon, Dorothy
+    gutenberg_agent_id: '40125'
+    url: http://www.gutenberg.org/2009/agents/40125
+description: ''
+gutenberg_issued: '2012-05-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39630'
+  lccn: '11009937'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E456'
+- !lcsh 'Lincoln, Abraham, 1809-1865'
+title: Recollections of Abraham Lincoln, 1847-1865
+url: http://www.gutenberg.org/ebooks/39630
